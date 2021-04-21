@@ -1,16 +1,33 @@
-### Hi there 👋
+```C++
 
-<!--
-**lucascipriano/lucascipriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#include <iostream>
 
-Here are some ideas to get you started:
+class About {
+  public:
+  
+    string name = "Lucas Cipriano";
+    string title = "Develpoer";
+    string location = "Riode Janeiro, RJ";
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class HardSkills : public About {
+    public:
+
+        string languages[5];
+            languages[0] = "C++";
+            languages[1] = "JavaScript";
+            languages[2] = "PHP";
+
+        string databases[2]
+            database[0] = "MySQL";
+            database[1] = "MongoDB";
+
+        string framework[6]
+            framework[0] = "React";
+            framework[1] = "Next";
+            framework[2] = "Gatsby";
+            framework[3] = "Vue";
+            framework[4] = "Bootstrap";
+            framework[5] = "tailwind";
+}
+```
