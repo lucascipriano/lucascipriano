@@ -28,6 +28,6 @@ class HardSkills : public About {
             framework[2] = "Gatsby";
             framework[3] = "Vue";
             framework[4] = "Bootstrap";
-            framework[5] = "tailwind";
+            framework[5] = "Tailwind";
 }
 ```
