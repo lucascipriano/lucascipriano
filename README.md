@@ -1,6 +1,7 @@
 ### Olá bípedis 
 
 Aprenda sempre recomeçar, mude sua stack, mude de trabalho, mude você.
+
 Você pode me encontrar no [meu site](https://www.lucascipriano.me/), [Twitter](https://twitter.com/lucasncipriano) ou no meu falecido perfil do [linkedin](https://www.linkedin.com/in/lucasncipriano/)
 
 ## <img width="60" alt="about" src="https://media.discordapp.net/attachments/618327111794556930/972637608146518026/PinClipart.com_gopher-clip-art_5718176.png"> Me:
